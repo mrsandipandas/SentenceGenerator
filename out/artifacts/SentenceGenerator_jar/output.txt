@@ -1,0 +1,32 @@
+Bappu likes a apple
+Bappu likes a banana
+Bappu likes apple
+Bappu likes banana
+Everyone likes apples 
+Everyone likes apples also
+Everyone likes bananas 
+Everyone likes bananas also
+Everyone likes the apples 
+Everyone likes the apples also
+Everyone likes the bananas 
+Everyone likes the bananas also
+I think Bappu likes a apple
+I think Bappu likes a banana
+I think Bappu likes apple
+I think Bappu likes banana
+I think Mohsen likes a apple
+I think Mohsen likes a banana
+I think Mohsen likes apple
+I think Mohsen likes banana
+I think Stefan likes a apple
+I think Stefan likes a banana
+I think Stefan likes apple
+I think Stefan likes banana
+Mohsen likes a apple
+Mohsen likes a banana
+Mohsen likes apple
+Mohsen likes banana
+Stefan likes a apple
+Stefan likes a banana
+Stefan likes apple
+Stefan likes banana

@@ -1,0 +1,28 @@
+Everyone likes apples
+Everyone likes bananas
+Everyone likes the apples
+Everyone likes the bananas
+I think Mohsen likes a apple
+I think Mohsen likes a banana
+I think Mohsen likes apple
+I think Mohsen likes banana
+I think Sandipan likes a apple
+I think Sandipan likes a banana
+I think Sandipan likes apple
+I think Sandipan likes banana
+I think Stefan likes a apple
+I think Stefan likes a banana
+I think Stefan likes apple
+I think Stefan likes banana
+Mohsen likes a apple
+Mohsen likes a banana
+Mohsen likes apple
+Mohsen likes banana
+Sandipan likes a apple
+Sandipan likes a banana
+Sandipan likes apple
+Sandipan likes banana
+Stefan likes a apple
+Stefan likes a banana
+Stefan likes apple
+Stefan likes banana

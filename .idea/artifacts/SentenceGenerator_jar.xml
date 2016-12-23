@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SentenceGenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SentenceGenerator_jar</output-path>
+    <root id="archive" name="SentenceGenerator.jar">
+      <element id="module-output" name="SentenceGenerator" />
+    </root>
+  </artifact>
+</component>
